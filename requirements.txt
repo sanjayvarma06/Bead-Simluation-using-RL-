@@ -1,0 +1,7 @@
+opencv-python
+numpy
+torch
+gymnasium
+stable-baselines3
+matplotlib
+pandas

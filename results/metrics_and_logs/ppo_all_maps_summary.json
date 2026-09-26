@@ -1,0 +1,26 @@
+{
+  "hockenheim_track.png": {
+    "geom010_mean": 0.9914285714285714,
+    "geom010_min": 0.9914285714285714,
+    "sequential_mean": 0.9914040114613181,
+    "rmse_mean": 0.024559139382553396,
+    "p95_mean": 0.054912755782727404,
+    "all_above_95": true
+  },
+  "montreal_track.png": {
+    "geom010_mean": 0.9600000000000002,
+    "geom010_min": 0.9571428571428572,
+    "sequential_mean": 0.9914040114613181,
+    "rmse_mean": 0.034629500300161896,
+    "p95_mean": 0.08034758993619043,
+    "all_above_95": true
+  },
+  "yasmarina_track.png": {
+    "geom010_mean": 0.9565714285714286,
+    "geom010_min": 0.9542857142857143,
+    "sequential_mean": 0.9914040114613181,
+    "rmse_mean": 0.04055549196113019,
+    "p95_mean": 0.08922305582919639,
+    "all_above_95": true
+  }
+}

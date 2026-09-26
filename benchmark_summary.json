@@ -1,0 +1,42 @@
+[
+  {
+    "Controller": "Fixed Pure Pursuit (Ld fixed, g fixed)",
+    "Mode": "fixed",
+    "Sequential Cov": "99.14% \u00b1 0.29%",
+    "Geom@0.10": "97.14% \u00b1 0.00%",
+    "Tracking RMSE": "0.0237 \u00b1 0.0002",
+    "P95 Error": "0.0426 \u00b1 0.0004",
+    "Steps": "666.0 \u00b1 3.0",
+    "Reward": "2992.07 \u00b1 21.72"
+  },
+  {
+    "Controller": "Adaptive Pure Pursuit (Linear v -> Ld)",
+    "Mode": "adaptive",
+    "Sequential Cov": "98.57% \u00b1 0.00%",
+    "Geom@0.10": "89.14% \u00b1 0.00%",
+    "Tracking RMSE": "0.0751 \u00b1 0.0001",
+    "P95 Error": "0.1986 \u00b1 0.0005",
+    "Steps": "643.0 \u00b1 1.0",
+    "Reward": "675.53 \u00b1 9.53"
+  },
+  {
+    "Controller": "RL-PP (Ld only, fixed g)",
+    "Mode": "ld_only",
+    "Sequential Cov": "99.14% \u00b1 0.00%",
+    "Geom@0.10": "95.14% \u00b1 0.00%",
+    "Tracking RMSE": "0.0360 \u00b1 0.0003",
+    "P95 Error": "0.0717 \u00b1 0.0025",
+    "Steps": "665.0 \u00b1 0.0",
+    "Reward": "2778.46 \u00b1 17.87"
+  },
+  {
+    "Controller": "RL-PP (joint Ld, g) [Proposed Method]",
+    "Mode": "joint",
+    "Sequential Cov": "99.14% \u00b1 0.00%",
+    "Geom@0.10": "95.14% \u00b1 0.00%",
+    "Tracking RMSE": "0.0374 \u00b1 0.0004",
+    "P95 Error": "0.0723 \u00b1 0.0003",
+    "Steps": "666.0 \u00b1 1.0",
+    "Reward": "2766.38 \u00b1 20.38"
+  }
+]
