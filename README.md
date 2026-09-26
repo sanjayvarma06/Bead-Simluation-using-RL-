@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Racing & Bead Tracing Benchmark Repository
 
 This repository contains clean, modular implementations of **Our High-Precision PPO Trajectory Tracing Model**, the **Research Paper Baseline**, **Datasets**, and **Results**.
@@ -98,3 +99,7 @@ python our_model_code/evaluate_complete_v8.py --image datasets/test_images/path1
 | **Adaptive PP (linear $v \to L_d$)** | 8.58 s | 9.72 s | 0.01 s | 0.27 s | 8.56 s | 9.34 s | 8.59 s | 10.40 s |
 | **Fixed PP ($L_d$ fixed)** | 8.88 s | 9.85 s | 0.03 s | 0.43 s | 8.85 s | 9.32 s | 8.93 s | 10.55 s |
 | **MPC raceline tracker** | *N/A* | **15.42 s** | *N/A* | **0.47 s** | *N/A* | **14.48 s** | *N/A* | **16.10 s** |
+=======
+# Bead-Simluation-using-RL-
+Direct-Actuation Bead Tracing versus RL-Tuned Pure Pursuit for Contour and Racetrack Following
+>>>>>>> 465f393cdba0058b79f8c468ef8f48998a32e276
